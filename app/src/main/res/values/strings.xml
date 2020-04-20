@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KillSwitch</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="add_device">Add Device</string>
+    <string name="add_device_name">Add Device Name</string>
+    <string name="addable_devices">Addable Devices (Click to Add)</string>
+    <string name="added_devices">Added Devices (Click to Remove)</string>
+    <string name="device_name">Device Name</string>
+</resources>
